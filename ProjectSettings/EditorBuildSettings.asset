@@ -9,5 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 1bfe9403c94fbd44bb6b9d9f988c1aaf
   - enabled: 1
+    path: Assets/Scenes/JoinMenu.unity
+    guid: 9a5d956c9aa401346a1bb47a7dd7fd89
+  - enabled: 1
     path: Assets/Scenes/Arena.unity
     guid: 5a3344fe007f3c64cb0913f0666a4eba
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 12aaf2583e0c7be43a7ea9f12e27216e
